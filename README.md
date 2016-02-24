@@ -3,7 +3,7 @@
 ## Objectives:
 - Implement a reverse proxy and acheive access transparency
 - Replicate a data warehouse
-- Build a RESTful interface on a **cassandra** database which will store information about employees (id, name, surname ,age)
+- Build a RESTful interface on a **cassandra** database which will store information about employees (id, name, surname , age)
 - Improve the performance of the proxy by using **Redis** for caching
 
 ### The solution:
